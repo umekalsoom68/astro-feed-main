@@ -6,7 +6,7 @@ export const teamMembers: TeamMember[] = [
     name: "Um-e-Kalsoom",
     role: "Frontend Developer",
     avatar: "UK",
-    image: "https://avatars.githubusercontent.com/u/105358562?v=4",
+    image: "https://avatars.githubusercontent.com/u/168982163?v=4",
     github: "https://github.com/umekalsoom68",
   },
   {
@@ -20,9 +20,9 @@ export const teamMembers: TeamMember[] = [
   {
     id: 3,
     name: "Zahoor Ahmed",
-    role: "Frontend Developer",
+    role: "Software Engineer",
     avatar: "ZA",
-    image: "https://avatars.githubusercontent.com/u/168982163?v=4",
+    image: "https://avatars.githubusercontent.com/u/105358562?v=4",
     github: "https://github.com/zahooray",
   },
 ];
