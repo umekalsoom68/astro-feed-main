@@ -3,18 +3,18 @@ import { TeamMember } from "@/types";
 export const teamMembers: TeamMember[] = [
   {
     id: 1,
-    name: "Um-e-Kalsoom ",
+    name: "Um-e-Kalsoom",
     role: "Frontend Developer",
     avatar: "UK",
-    image: "/assets/umekalsoom.jpg",
-    github: " https://github.com/umekalsoom68",
+    image: "https://avatars.githubusercontent.com/u/105358562?v=4",
+    github: "https://github.com/umekalsoom68",
   },
   {
     id: 2,
     name: "Aima Kareem",
     role: "Frontend Developer",
     avatar: "AK",
-    image: "/assets/aimakareem.jpg",
+    image: "https://avatars.githubusercontent.com/u/168980578?v=4",
     github: "https://github.com/aimakareem",
   },
   {
@@ -22,7 +22,7 @@ export const teamMembers: TeamMember[] = [
     name: "Zahoor Ahmed",
     role: "Frontend Developer",
     avatar: "ZA",
-    image: "/assets/zahoorahmed.jpg",
+    image: "https://avatars.githubusercontent.com/u/168982163?v=4",
     github: "https://github.com/zahooray",
   },
 ];

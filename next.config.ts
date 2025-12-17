@@ -10,6 +10,10 @@ const nextConfig: NextConfig = {
       {
         hostname: "apod.nasa.gov",
       },
+      {
+        // GitHub images 
+        hostname: "avatars.githubusercontent.com",
+      },
     ],
   },
 };
